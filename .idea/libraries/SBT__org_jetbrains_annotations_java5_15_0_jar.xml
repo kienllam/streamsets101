@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.jetbrains:annotations-java5:15.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jetbrains/annotations-java5/jars/annotations-java5-15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jetbrains/annotations-java5/srcs/annotations-java5-15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

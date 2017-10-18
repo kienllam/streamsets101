@@ -1,0 +1,31 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/streamsets101_2.10-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets/CustomTransformer$$anonfun$2$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets/CustomTransformer$$anonfun$2$$anonfun$apply$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets/CustomTransformer$$anonfun$validateRecord$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets/CustomTransformer$$anonfun$validateRecord$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets/CustomTransformer$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets/CustomTransformer$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets/CustomTransformer$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets/CustomTransformer$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets/CustomTransformer$$anonfun$init$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets/CustomTransformer$$anonfun$init$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets/CustomTransformer$$anonfun$ccPrefixMatches$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets/CustomTransformer$$anonfun$ccPrefixMatches$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets/CustomTransformer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets/CustomTransformer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets/CustomTransformer$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets/CustomTransformer$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets/CustomTransformer$$anonfun$2$$anonfun$apply$4$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets/CustomTransformer$$anonfun$2$$anonfun$apply$4$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets/CustomTransformer$$anonfun$2$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets/CustomTransformer$$anonfun$2$$anonfun$apply$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets/CustomTransformer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets/CustomTransformer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/streamsets/CustomTransformer$$anonfun$1$$anonfun$apply$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ki3u3q6/Desktop/streamsets101/target/scala-2.10/classes/com/streamsets/CustomTransformer$$anonfun$1$$anonfun$apply$2.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
